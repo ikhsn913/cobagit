@@ -1,0 +1,50 @@
+html {
+  position: relative;
+}
+
+body {
+  margin-bottom: 50px;
+}
+
+.jumbotron img {
+  width: 200px;
+  border: 5px solid #666;
+}
+
+hr {
+  width: 250px;
+  border-top: 3px solid #999;
+}
+
+section {
+  min-height: 600px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.portofolio {
+  background: #eee;
+}
+
+.kotak {
+  width: 100px;
+  height: 100px;
+  background: #fbae;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background: #333;
+  padding-top: 15px;
+}
+
+footer p {
+  color: #aaa;
+}
+
+footer p i,a {
+  color: #fbae17;
+}

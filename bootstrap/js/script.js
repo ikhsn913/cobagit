@@ -6,9 +6,9 @@ $('.page-scroll').on('click', function(e){
   //ambil element
   var elTujuan = $(tujuan);
 
-  $('html').animate({
-    scrollTop: elTujuan.offset().top
-  });
+  $('html, body').animate({
+    scrollTop: elTujuan.offset().top - 30
+  }, 1000);
 
   e.preventDefault();
 

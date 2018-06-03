@@ -19,18 +19,12 @@ hr {
 
 section {
   min-height: 600px;
-  padding-top: 30px;
+  padding-top: 40px;
   padding-bottom: 30px;
 }
 
 .portofolio {
   background: #eee;
-}
-
-.kotak {
-  width: 100px;
-  height: 100px;
-  background: #fbae;
 }
 
 footer {
